@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    color: white;
+}
+.navbar{
+    display: flex;
+    min-height: 50px;
+    line-height: 50px;
+}
+.navbar li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}

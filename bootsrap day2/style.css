@@ -1,0 +1,54 @@
+.container-fluid{
+  background-color:rgb(221, 145, 145);
+ color:rgb(1, 2, 3);
+ font-size: larger;
+ 
+}
+.navbar-nav{
+  padding-right:50px; 
+}
+.p{
+  text-align: center;
+}
+  .location-image{
+    min-width: 300;
+    max-width: 300;
+     
+    min-height: 300;
+    max-height: 300;
+    position: relative;
+
+  } 
+  .location-name{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    color: antiquewhite;
+  }
+  .location-image{
+    margin:10px; 
+    
+  }
+  .image-set{
+    margin:10px ;
+  }
+  .image-sets{
+    size: 1200px;
+    position: absolute;
+     
+    min-height: 300;
+    max-height: 300;
+    height: 30%;
+    width:45%;
+    bottom: 150px;
+  }
+  .card-body{
+    text-align: right;
+
+  }
+  .image-image{
+    height: 100%;
+    width: 300px;
+  }
+   
+  
